@@ -15,7 +15,7 @@
     "url": "https://github.com/Abhinegi/React-Hooks/issues"
   },
   "homepage": "https://github.com/Abhinegi/React-Hooks#readme",
-  "name": "@abhi/usehttp",
+  "name": "@Abhinegi/usehttp",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
