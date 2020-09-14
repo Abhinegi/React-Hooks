@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abhinegi/React-Hooks.git"
+    "url": "git@github.com:Abhinegi/React-Hooks.git"
   },
   "author": "",
   "license": "ISC",
@@ -18,8 +18,5 @@
   "name": "@abhi/useHttp",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  },
-  "repository": {
-    "url": "git@github.com:Abhinegi/React-Hooks.git"
   }
 }
