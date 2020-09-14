@@ -1,5 +1,5 @@
-# React-Hooks
-Custom React Hook
+# useHttp React Custom Hook
+
 
 This is custom react hook for getting http request wrapped using Axios library.
 Dependency library: Axios  // Please install Axios library prior to this hook.
